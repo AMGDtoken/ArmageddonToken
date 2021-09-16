@@ -1,0 +1,63 @@
+# ArmageddonToken
+
+Armageddons repository will be home to any and all programs and code that contributes to the development of Armageddon free to copy and learn from, as we grow -
+
+we aim to help other project developers achieve their dreams easily and much quicker than we may have been able to.
+
+
+
+This repository contains our contract available for all to view and in the name of transparency we will be listing all whitelisted wallets (project walets) -
+
+here:
+
+[] - DxSale Distribution Wallet
+
+[] - Marketing Wallet
+
+[] - Marketing Spend Wallet*
+
+[] - Reserve Wallet**
+
+[] - Extra (Backup Walet)
+
+
+
+(no more than five wallets whitelisted at a time)
+
+
+
+why five? one for each project wallet, one extra just in case.
+
+
+
+Fee changes will be listed as well with the time and date the change occurred -
+
+here:
+
+
+
+(original)
+
+4% Redistribution/Reflection
+
+4% Liquidity
+
+1% Marketing [0x0000...]
+
+1% Burn
+
+(original)
+
+
+
+* We learned alot from the V1 of Armageddon instead of using the main marketing Wallet for interacting with DApps (pancakeswap) we will be siphoning -
+
+from the larger Wallet to the empty marketing wallet in exact ammounts for Decentralized Application Connections to mitigate losses in an unfortunate -
+
+event.
+
+
+
+** The Reserve Wallet is for the future NFT launch we have plans for. (Reference "NFTs With Guaranteed Value" on the home page of -
+
+https://www.armageddontoken.com)
